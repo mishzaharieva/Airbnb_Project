@@ -7,50 +7,34 @@
 
 /* Body styles */
 body {
+    background-color: #767676; /* light gray */
+    color: #484848; /* dark gray */
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f8f8f8;
-    color: #333;
 }
 
-/* Header styles */
-header {
-    background-color: #0056b3;
-    color: #fff;
-    padding: 20px 0;
-    text-align: center;
-}
-
-header h1 {
-    font-size: 2.5rem;
-}
-
-/* Main styles */
-main {
-    max-width: 800px;
-    margin: 20px auto;
-    padding: 0 20px;
-}
-
-section {
-    margin-bottom: 40px;
-}
-
-h2 {
-    font-size: 2rem;
-    margin-bottom: 10px;
-    color: #0056b3;
-}
-
-p {
-    font-size: 1.1rem;
-    line-height: 1.8;
-}
-
-/* Footer styles */
-footer {
-    background-color: #0056b3;
-    color: #fff;
-    text-align: center;
+/* Header and Footer styles */
+header, footer {
+    background-color: #FF5A5F; /* primary color */
+    color: white;
     padding: 10px 0;
+    text-align: center;
 }
+
+/* Heading styles */
+h1, h2, h3 {
+    color: #FF5A5F; /* primary color */
+    margin-bottom: 10px;
+}
+
+/* Link styles */
+a {
+    color: #00A699; /* secondary color */
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #FC642D; /* accent color on hover */
+}
+
