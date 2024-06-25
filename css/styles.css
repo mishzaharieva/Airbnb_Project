@@ -7,7 +7,7 @@
 
 /* Body styles */
 body {
-    background-color: #767676; /* light gray */
+    background-color: #FAF9F6; /* off-white */
     color: #484848; /* dark gray */
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -23,7 +23,7 @@ header, footer {
 
 /* Heading styles */
 h1, h2, h3 {
-    color: #FF5A5F; /* primary color */
+    color: #FFFFFF; /* white */
     margin-bottom: 10px;
 }
 
