@@ -13,16 +13,22 @@ body {
     line-height: 1.6;
 }
 
-/* Header and Footer styles */
-header, footer {
+/* Header styles */
+header {
     background-color: #FF5A5F; /* primary color */
     color: white;
     padding: 10px 0;
     text-align: center;
 }
 
+/* Main styles */
+main {
+    padding: 20px;
+}
+
+/* Heading styles */
 h1 {
-    color: #FFFFFF; /* white */
+    color: white; /* white */
     margin-bottom: 10px;
 }
 
@@ -31,9 +37,14 @@ h2, h3 {
     margin-bottom: 10px;
 }
 
-/* Introduction heading style */
-.intro-heading {
-    color: #FF5A5F; /* primary color */
+/* Section styles */
+section {
+    margin-bottom: 20px;
+}
+
+/* Paragraph styles */
+p {
+    line-height: 1.8;
 }
 
 /* Link styles */
@@ -46,6 +57,7 @@ a {
 a:hover {
     color: #FC642D; /* accent color on hover */
 }
+
 
 
 
