@@ -43,21 +43,6 @@ a:hover {
     color: #FC642D; /* accent color on hover */
 }
 
-/* Section styles */
-section {
-    margin: 20px 0;
-    padding: 0 20px;
-}
-
-section h2 {
-    color: #333; /* dark gray for section headings */
-    font-size: 1.5rem;
-    margin-bottom: 10px;
-}
-
-section p {
-    margin-bottom: 15px;
-}
 
 
 
