@@ -27,6 +27,11 @@ h1, h2, h3 {
     margin-bottom: 10px;
 }
 
+/* Introduction heading style */
+.intro-heading {
+    color: #FF5A5F; /* primary color */
+}
+
 /* Link styles */
 a {
     color: #00A699; /* secondary color */
@@ -37,5 +42,6 @@ a {
 a:hover {
     color: #FC642D; /* accent color on hover */
 }
+
 
 
