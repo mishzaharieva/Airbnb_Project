@@ -24,6 +24,16 @@ header {
 /* Main styles */
 main {
     padding: 20px;
+    text-align: center; /* Center align content in main */
+}
+
+/* Image container */
+.image-container {
+    margin-bottom: 20px; /* Adjust as needed */
+}
+
+.image-container img {
+    max-width: 100%; /* Ensure image fits within container */
 }
 
 /* Heading styles */
@@ -57,6 +67,7 @@ a {
 a:hover {
     color: #FC642D; /* accent color on hover */
 }
+
 
 
 
