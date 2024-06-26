@@ -29,8 +29,9 @@ main {
 
 .image-container {
     margin-bottom: 20px; /* Adjust margin as needed */
-    max-width: 600px; /* Set maximum width for the image container */
-    margin: 0 auto; /* Center align the image container */
+    max-width: 50%; /* Set maximum width for the image container to 50% of the viewport width */
+    margin-left: auto; /* Align the image container to the left */
+    margin-right: auto; /* Align the image container to the right */
 }
 
 .image-container img {
