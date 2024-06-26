@@ -27,12 +27,16 @@ main {
     text-align: center; /* Center align content in main */
 }
 
-/* Image container */
 .image-container {
-    margin-bottom: 20px; /* Adjust as needed */
+    margin-bottom: 20px; /* Adjust margin as needed */
+    max-width: 600px; /* Set maximum width for the image container */
+    margin: 0 auto; /* Center align the image container */
 }
 
 .image-container img {
+    width: 100%; /* Make the image width 100% of its container */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Ensure image behaves as a block element */
     max-width: 100%; /* Ensure image fits within container */
 }
 
