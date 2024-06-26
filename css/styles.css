@@ -21,9 +21,13 @@ header, footer {
     text-align: center;
 }
 
-/* Heading styles */
-h1, h2, h3 {
+h1 {
     color: #FFFFFF; /* white */
+    margin-bottom: 10px;
+}
+
+h2, h3 {
+    color: #FF5A5F; /* primary color */
     margin-bottom: 10px;
 }
 
@@ -42,6 +46,7 @@ a {
 a:hover {
     color: #FC642D; /* accent color on hover */
 }
+
 
 
 
