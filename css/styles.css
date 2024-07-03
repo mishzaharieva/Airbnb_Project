@@ -23,15 +23,16 @@ header {
 
 /* Main styles */
 main {
-    padding: 20px;
-    text-align: center; /* Center align content in main */
+    max-width: 800px; /* Adjust width as needed */
+    margin: 20px auto; /* Center main content */
+    padding: 0 20px; /* Add padding around main content */
+    text-align: left; /* Align text content to the left */
 }
 
 .image-container {
-    margin-bottom: 20px; /* Adjust margin as needed */
-    max-width: 50%; /* Set maximum width for the image container to 50% of the viewport width */
-    margin-left: auto; /* Align the image container to the left */
-    margin-right: auto; /* Align the image container to the right */
+    margin: 0 auto 20px; /* Center the image container and add bottom margin */
+    max-width: 100%; /* Ensure image container does not exceed its content width */
+    text-align: center; /* Center the image within its container */
 }
 
 .image-container img {
@@ -72,6 +73,7 @@ a {
 a:hover {
     color: #FC642D; /* accent color on hover */
 }
+
 
 
 
