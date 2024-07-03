@@ -22,6 +22,6 @@ This project analyzes Airbnb data to predict the price of listings based on vari
 - `index.html`: Main HTML file
 - `css/styles.css`: CSS styles for the project
 - `images/`: Directory for storing project images
-- `Starter Code-AirbnbTakeHome (1).ipynb`: Jupyter Notebook containing starter code and analysis
-- `README.md`: This file providing project overview, setup instructions, and usage guidelines
+- `Starter Code-AirbnbTakeHome (1).ipynb`: Jupyter Notebook containing code and analysis
+- `README.md`: This file providing project overview.
 - `Enhancing Airbnb Bookings in Rio de Janeiro`: PDF report documenting problem statement, analysis, and findings
