@@ -26,13 +26,12 @@ main {
     max-width: 800px; /* Adjust width as needed */
     margin: 20px auto; /* Center main content */
     padding: 0 20px; /* Add padding around main content */
-    text-align: left; /* Align text content to the left */
 }
 
+/* Image container styles */
 .image-container {
-    margin: 0 auto 20px; /* Center the image container and add bottom margin */
-    max-width: 100%; /* Ensure image container does not exceed its content width */
     text-align: center; /* Center the image within its container */
+    margin-bottom: 20px; /* Add bottom margin to the image container */
 }
 
 .image-container img {
@@ -61,6 +60,7 @@ section {
 /* Paragraph styles */
 p {
     line-height: 1.8;
+    text-align: left; /* Align paragraphs to the left */
 }
 
 /* Link styles */
@@ -73,6 +73,7 @@ a {
 a:hover {
     color: #FC642D; /* accent color on hover */
 }
+
 
 
 
