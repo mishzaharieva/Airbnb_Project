@@ -6,7 +6,7 @@ This project analyzes Airbnb data to predict the price of listings based on vari
 ## Features
 - **Data Cleaning and Preprocessing**: Includes handling missing values, removing outliers, and feature engineering.
 - **Exploratory Data Analysis (EDA)**: Visualizations and statistical summaries to understand data distributions and correlations.
-- **Model Building**: Implementing machine learning models (like regression or ensemble methods) to predict Airbnb booking success rate in Rio de Janeiro. 
+- **Model Building**: Implementing machine learning models (like regression or ensemble methods) to predict features influecing Airbnb booking success rate in Rio de Janeiro. 
 - **Evaluation Metrics**: Assessing model performance using confusion matrix, precision, recall, and F1-score.
 
 ## Technologies Used
